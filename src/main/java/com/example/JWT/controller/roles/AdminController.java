@@ -1,4 +1,4 @@
-package com.example.JWT.controller;
+package com.example.JWT.controller.roles;
 
 import com.example.JWT.model.Role;
 import jakarta.servlet.http.HttpServletRequest;

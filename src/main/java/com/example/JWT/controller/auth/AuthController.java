@@ -1,4 +1,4 @@
-package com.example.JWT.controller;
+package com.example.JWT.controller.auth;
 
 import com.example.JWT.dto.request.LoginRequest;
 import com.example.JWT.dto.response.JwtResponse;
